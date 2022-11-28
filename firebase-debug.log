@@ -1,0 +1,21 @@
+[debug] [2022-11-24T17:24:29.515Z] ----------------------------------------------------------------------
+[debug] [2022-11-24T17:24:29.522Z] Command:       C:\Program Files (x86)\nodejs\node.exe C:\Users\G2tech\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-11-24T17:24:29.525Z] CLI Version:   11.16.1
+[debug] [2022-11-24T17:24:29.525Z] Platform:      win32
+[debug] [2022-11-24T17:24:29.526Z] Node Version:  v16.16.0
+[debug] [2022-11-24T17:24:29.535Z] Time:          Thu Nov 24 2022 22:54:29 GMT+0530 (India Standard Time)
+[debug] [2022-11-24T17:24:29.536Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-11-24T17:24:29.573Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-11-24T17:24:29.575Z] > authorizing via signed-in user (thilipetp@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\www-81\htdocs\edgecut
+
